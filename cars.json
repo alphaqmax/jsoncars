@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "Cayman GTS",
+        "color": "red",
+        "year": "2016",
+        "price": "55,397.00",
+        "image": "red.png"
+    },
+    {
+        "id": "2",
+        "name": "Cayman",
+        "color": "silver",
+        "year": "2013",
+        "price": "55,397.00",
+        "image": "silver.png"
+    },
+    {
+        "id": "3",
+        "name": "718 Cayman S",
+        "color": "teal",
+        "year": "2015",
+        "price": "39,694.00",
+        "image": "teal.png"
+    },
+    {
+        "id": "4",
+        "name": "911 GT3 RS",
+        "color": "orange",
+        "year": "2014",
+        "price": "39,694.00",
+        "image": "orange.png"
+    },
+    {
+        "id": "5",
+        "name": "Cayman GT4",
+        "color": "yellow",
+        "year": "2014",
+        "price": "48,783.00",
+        "image": "yellow.png"
+    },
+    {
+        "id": "6",
+        "name": "911 Targa 4",
+        "color": "white",
+        "year": "2015",
+        "price": "48,783.00",
+        "image": "white.png"
+    },
+    {
+        "id": "7",
+        "name": "911 Turbo S Cabriolet",
+        "color": "blue",
+        "year": "2013",
+        "price": "86,377.00",
+        "image": "blue.png"
+    },
+    {
+        "id": "8",
+        "name": "Cayman Black Edition",
+        "color": "black",
+        "year": "2016",
+        "price": "55,397.00",
+        "image": "black.png"
+    }
+]
